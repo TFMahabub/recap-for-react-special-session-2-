@@ -10,7 +10,7 @@ y.push(20);
 
 console.log(x)
 console.log(y)
-*/
+
 
 
 
@@ -25,3 +25,4 @@ const obj = {
 const {profession, name: React} = obj;
 
 console.log(React);
+*/
